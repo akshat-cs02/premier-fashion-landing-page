@@ -8,7 +8,7 @@ This project reflects my understanding of **modern UI structuring and visual sto
 ---
 
 ## 🚀 Live Demo
-
+ https://akshat-cs02.github.io/premier-fashion-landing-page/
 
 
 ---
